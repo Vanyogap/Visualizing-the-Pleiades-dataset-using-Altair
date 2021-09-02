@@ -1,0 +1,2 @@
+# Visualizing-the-Pleiades-dataset-using-Altair
+Exploration of archaeological locations is carried out using literate visualization techniques. Interactivevisualizations including selection histograms, multi-feature scatter plots, maps, charts with cross-highlights, heat-maps, chloropleth maps are implemented using Altair python library to facilitate easier analysis of the locations by archaeologists.
